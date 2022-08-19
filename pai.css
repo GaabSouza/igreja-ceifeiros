@@ -70,8 +70,8 @@ header {
 .text {
 	transform: translate(-50%,-50%);
 	position: absolute;
-	top: 34%;
-	left: 30%;
+	top: 30%;
+	left: 40%;
 }
 
 .text h1 {
